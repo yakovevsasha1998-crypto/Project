@@ -1,4 +1,3 @@
-
 def is_palindrome(text):
     reverse = text[::-1]
 
